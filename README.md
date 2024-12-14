@@ -1,7 +1,7 @@
 # E-Commerce Store
 
-![image](![Screenshot 2024-12-14 163418](https://github.com/user-attachments/assets/807e1237-44b6-4436-bdc8-5189e0dec749)
-)
+![Screenshot 2024-12-14 163418](https://github.com/user-attachments/assets/63e4d984-fc3f-45f2-9c8e-fdb9d38d1dfb)
+
 
 A React-based e-commerce application that allows users to browse products, add items to their cart, and complete purchases.
 
